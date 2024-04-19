@@ -1,4 +1,4 @@
-Olá, 👋
+Hello! 👋
 
 - 🔭 I’m currently working on frontend projects
 - 🌱 I’m currently learning HTML,CSS and JavaScript
