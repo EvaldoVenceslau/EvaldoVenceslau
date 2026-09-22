@@ -45,7 +45,6 @@
   <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;
   <img alt="Cypress" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg">&nbsp;
   <img alt="Playwright" height="40" src="https://playwright.dev/img/playwright-logo.svg">&nbsp;
-  <img alt="ServiceNow" height="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/servicenow.svg">&nbsp;
   <img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </p>
 
